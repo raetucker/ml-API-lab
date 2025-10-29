@@ -1,0 +1,8 @@
+#This is meant to help keep the image slim
+__pycache__/
+.venv/
+venv/
+*.pyc
+.git/
+.gitignore
+.vscode/

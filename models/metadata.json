@@ -1,0 +1,21 @@
+{
+  "model": "RandomForestRegressor(n_estimators=300, random_state=42)",
+  "feature_names": [
+    "age",
+    "sex",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "test_metrics": {
+    "r2": 0.4340779437047302,
+    "mae": 44.578352059925095,
+    "rmse": 54.75710850734263
+  },
+  "notes": "Inputs must be the 10 standardized features of the sklearn diabetes dataset."
+}
